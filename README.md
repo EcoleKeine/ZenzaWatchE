@@ -1,0 +1,2 @@
+# ZenzaWatchE
+Personal Edition
